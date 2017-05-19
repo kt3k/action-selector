@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "standard",
     "test": "mocha test.js",
-    "codecov": "nyc --reporter=lcov npm test | codecov"
+    "codecov": "nyc --reporter=lcov npm test && codecov"
   },
   "repository": {
     "type": "git",

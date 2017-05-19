@@ -1,5 +1,8 @@
 # action-selector v1.0.0
 
+[![CircleCI](https://circleci.com/gh/kt3k/action-selector.svg?style=svg)](https://circleci.com/gh/kt3k/action-selector)
+[![codecov](https://codecov.io/gh/kt3k/action-selector/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/action-selector)
+
 > Select actions from the given configuration
 
 # Install
