@@ -1,5 +1,7 @@
 # action-selector v1.0.0
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kt3k/action-selector.svg)](https://greenkeeper.io/)
+
 > Select actions from the given configuration
 
 # Install
