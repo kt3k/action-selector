@@ -1,4 +1,4 @@
-# action-selector v0.1.0
+# action-selector v1.0.0
 
 > Select actions from the given configuration
 
