@@ -1,0 +1,27 @@
+{
+  "name": "action-selector",
+  "version": "0.1.0",
+  "description": "Select actions from the given configuration",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/action-selector.git"
+  },
+  "keywords": [
+    "cli",
+    "util"
+  ],
+  "author": "Yoshiya Hinosawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/action-selector/issues"
+  },
+  "homepage": "https://github.com/kt3k/action-selector#readme",
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
