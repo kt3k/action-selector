@@ -1,5 +1,5 @@
-const { select } = require('./')
-const { expect } = require('chai')
+const select = require('./').select
+const expect = require('chai').expect
 
 describe('select()', () => {
   it('emits action event when the action is available', done => {
