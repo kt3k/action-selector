@@ -1,6 +1,6 @@
 {
   "name": "action-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Select actions from the given configuration",
   "main": "index.js",
   "scripts": {

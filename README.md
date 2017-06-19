@@ -1,4 +1,4 @@
-# action-selector v1.0.0
+# action-selector v1.0.1
 
 [![CircleCI](https://circleci.com/gh/kt3k/action-selector.svg?style=svg)](https://circleci.com/gh/kt3k/action-selector)
 [![codecov](https://codecov.io/gh/kt3k/action-selector/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/action-selector)
@@ -63,6 +63,10 @@ The rule is:
 - Then check `action:${actionName}` key in `object`.
 - If `action:${actionName}` exists in `object` then that is the action and emits `action` event with it.
 - If `action:${actionName}` doesn't exist in `object` then emits `no-action` event with the missing action's name.
+
+# History
+
+- 2017-06-19   v1.0.1   Support node.js v4.
 
 
 # License
