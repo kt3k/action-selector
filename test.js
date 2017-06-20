@@ -1,6 +1,10 @@
 const select = require('./').select
 const expect = require('chai').expect
 
+const kocha = require('kocha')
+const describe = kocha.describe
+const it = kocha.it
+
 describe('select()', () => {
   it('emits action event when the action is available', done => {
     const obj = {

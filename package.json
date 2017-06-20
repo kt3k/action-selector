@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "standard",
-    "test": "mocha test.js",
+    "test": "kocha test.js",
     "codecov": "nyc --reporter=lcov npm test && codecov"
   },
   "repository": {
@@ -25,7 +25,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "codecov": "^2.2.0",
-    "mocha": "^3.4.1",
+    "kocha": "^1.8.0",
     "nyc": "^10.3.2",
     "standard": "^10.0.2"
   }
