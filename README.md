@@ -1,4 +1,4 @@
-# action-selector v1.0.1
+# action-selector v1.0.2
 
 ![CI](https://github.com/kt3k/action-selector/workflows/CI/badge.svg)
 [![codecov](https://codecov.io/gh/kt3k/action-selector/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/action-selector)
