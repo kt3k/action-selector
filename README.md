@@ -66,8 +66,8 @@ The rule is:
 
 # History
 
+- 2020-07-22   v1.0.2   Switch to github actions.
 - 2017-06-19   v1.0.1   Support node.js v4.
-
 
 # License
 
